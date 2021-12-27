@@ -11,8 +11,8 @@ int main() {
     int i, index, count;
 
     printf("====Selamat datang di program enkripsi-dekripsi file sederhana!!====\n");
-    printf("\nSilahkan masukkan menu: \n");
-    printf("1. Enkripsi\n2. Dekripsi\n\n");
+    printf("1. Enkripsi\n2. Dekripsi\n");
+    printf("\nSilahkan masukkan menu: ");
     scanf("%d", &index);
 
     if (index == 1)
