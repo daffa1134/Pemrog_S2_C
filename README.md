@@ -1,2 +1,2 @@
 # Pemrog-S2-C
-Pemrograman C pada Semester 2
+Tugas-tugas pemrograman dalam bahasa C
